@@ -1,0 +1,47 @@
+SKU,Name,Description,Price,Pages,Author
+B001,The Catcher in the Rye,A classic novel about the struggles of adolescence,12.99,224,J.D. Salinger
+B002,To Kill a Mockingbird,A timeless story of justice and compassion,14.99,336,Harper Lee
+B003,1984,A dystopian novel exploring the dangers of totalitarianism,16.99,328,George Orwell
+B004,The Great Gatsby,A tale of wealth, love, and the American Dream,13.99,180,F. Scott Fitzgerald
+B005,Pride and Prejudice,A romantic classic exploring love and societal expectations,11.99,320,Jane Austen
+B006,The Hobbit,A fantastical journey through the world of Middle-earth,18.99,310,J.R.R. Tolkien
+B007,The Lord of the Rings Trilogy,An epic fantasy trilogy with a rich and immersive world,22.99,1178,J.R.R. Tolkien
+B008,The Alchemist,A philosophical novel about following one's dreams,24.99,208,Paulo Coelho
+B009,Brave New World,A dystopian classic envisioning a futuristic society,18.99,288,Aldous Huxley
+B010,One Hundred Years of Solitude,A magical realist novel capturing the history of a family,20.99,417,Gabriel García Márquez
+B011,The Odyssey,A timeless epic poem about the hero's journey,15.99,560,Homer
+B012,The Picture of Dorian Gray,A Gothic novel exploring the consequences of hedonism,16.99,254,Oscar Wilde
+B013,Fahrenheit 451,A dystopian novel warning against censorship and conformity,14.99,249,Ray Bradbury
+B014,Crime and Punishment,A psychological novel delving into morality and guilt,19.99,671,Fyodor Dostoevsky
+B015,The Brothers Karamazov,A philosophical novel exploring faith, doubt, and morality,22.99,824,Fyodor Dostoevsky
+B016,The Grapes of Wrath,A social commentary on the plight of the Great Depression,21.99,464,John Steinbeck
+B017,Moby-Dick,A novel about obsession and revenge,14.99,624,Herman Melville
+B018,The Shining,A psychological horror novel set in an isolated hotel,16.99,447,Stephen King
+B019,The Girl with the Dragon Tattoo,A gripping mystery thriller,9.99,672,Stieg Larsson
+B020,The Road,A post-apocalyptic tale of survival and hope,18.99,287,Cormac McCarthy
+B021,Slaughterhouse-Five,A satirical novel exploring the experiences of a time-traveling soldier,15.99,275,Kurt Vonnegut
+B022,The Hitchhiker's Guide to the Galaxy,A comedic science fiction series,12.99,215,Douglas Adams
+B023,Anna Karenina,A tragic novel about love and societal expectations,20.99,964,Leo Tolstoy
+B024,War and Peace,A sweeping epic depicting Russian society during the Napoleonic era,24.99,1225,Leo Tolstoy
+B025,The Book Thief,A novel narrated by Death, set during World War II,15.99,552,Markus Zusak
+B026,The Fountainhead,A philosophical novel exploring individualism and architecture,19.99,720,Ayn Rand
+B027,The Count of Monte Cristo,A tale of revenge and redemption,17.99,1276,Alexandre Dumas
+B028,Wuthering Heights,A Gothic novel about love and revenge on the Yorkshire moors,14.99,416,Emily Brontë
+B029,The Silence of the Lambs,A psychological horror-thriller,16.99,352,Thomas Harris
+B030,Lolita,A controversial and complex exploration of obsession,18.99,336,Vladimir Nabokov
+B031,The Scarlet Letter,A novel about sin, redemption, and societal expectations,12.99,238,Nathaniel Hawthorne
+B032,The Iliad,A classic epic poem about the Trojan War,15.99,683,Homer
+B033,The Prince,Machiavelli's political treatise on leadership and power,13.99,140,Niccolò Machiavelli
+B034,The Martian,A science fiction novel about survival on Mars,20.99,369,Andy Weir
+B035,A Clockwork Orange,A dystopian novel exploring free will and morality,17.99,213,Anthony Burgess
+B036,The Hound of the Baskervilles,A classic Sherlock Holmes mystery,14.99,272,Arthur Conan Doyle
+B037,The Stand,A post-apocalyptic horror novel,19.99,1153,Stephen King
+B038,The Road Not Taken and Other Poems,A collection of poems by Robert Frost,11.99,128,Robert Frost
+B039,The Wind-Up Bird Chronicle,A surreal and complex novel by Haruki Murakami,22.99,607,Haruki Murakami
+B040,The Joy Luck Club,A novel exploring the relationships between Chinese-American women,16.99,288,Amy Tan
+B041,The Color Purple,A novel about resilience and empowerment,18.99,295,Alice Walker
+B042,One Flew Over the Cuckoo's Nest,A novel about rebellion in a mental institution,20.99,320,Ken Kesey
+B043,The Joy of Cooking,A comprehensive cookbook with recipes and culinary tips,24.99,1160,Irma S. Rombauer
+B044,The Glass Castle,A memoir recounting a challenging childhood,16.99,288,Jeannette Walls
+B045,The Immortal Life of Henrietta Lacks,A non-fiction work exploring medical ethics,19.99,370,Rebecca Skloot
+B046,The Power of Habit,A self-help book on the science of habit formation,14.99,371,Charles Duhigg

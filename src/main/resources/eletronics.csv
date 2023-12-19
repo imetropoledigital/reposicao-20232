@@ -1,0 +1,45 @@
+SKU,Name,Description,Price,Voltage
+E001,Smartphone XZ-2000,High-performance smartphone with advanced features,599.99,BIVOLT
+E002,Laptop ProBook 15X,Powerful laptop with a sleek design,899.99,110
+E003,Wireless Headphones HD-500,Wireless headphones with noise-canceling technology,129.99,220
+E004,Tablet UltraTab 10,Sleek and productive tablet for on-the-go use,349.99,BIVOLT
+E005,Digital Camera SnapShot 24MP,High-resolution digital camera for capturing moments,299.99,110
+E006,Smartwatch Elite 5,Feature-rich smartwatch with health tracking,149.99,220
+E007,Office Printer JetPrint 500,High-speed printer for efficient document printing,129.99,BIVOLT
+E008,Wireless Mouse Precision X,Ergonomic wireless mouse with precise navigation,19.99,110
+E009,USB-C Charging Cable 2m,Fast-charging USB-C cable,14.99,220
+E010,Bluetooth Speaker BassBoom 1000,Compact and portable Bluetooth speaker,29.99,BIVOLT
+E011,Wireless Gaming Mouse RGB Pro,Customizable wireless gaming mouse,59.99,110
+E012,4K Ultra HD TV 55",Home entertainment with stunning 4K visuals,299.99,220
+E013,Portable Power Bank 10000mAh,On-the-go charging with a portable power bank,19.99,BIVOLT
+E014,VR Headset VirtualXperience,Immersive gaming experience with virtual reality,89.99,110
+E015,Bluetooth Keyboard SlimType,Compact and wireless Bluetooth keyboard,49.99,220
+E016,External Hard Drive 2TB,High-capacity external hard drive for data storage,24.99,110
+E017,Wireless Charging Pad FastCharge,Wireless charging pad for quick and efficient charging,99.99,BIVOLT
+E018,Noise-Canceling Earbuds SonicSilence,Premium audio experience with noise-canceling earbuds,79.99,110
+E019,Gaming Laptop TitanX 17,Extreme performance gaming laptop,34.99,220
+E020,Smart Home Hub ConnectHome,Smart home hub for home automation,169.99,BIVOLT
+E021,HD Webcam ProStream,Clear video conferencing with a high-definition webcam,44.99,110
+E022,USB Flash Drive 128GB,Fast and convenient data transfer with a USB flash drive,19.99,220
+E023,Smart Thermostat ClimateControl,Energy-efficient smart thermostat,129.99,BIVOLT
+E024,Graphics Tablet ArtMaster 12,Digital drawing with a graphics tablet,149.99,110
+E025,Wireless Earbuds SportBeat,Sweatproof wireless earbuds for an active lifestyle,79.99,220
+E026,Home Theater Projector HD-7000,Cinematic experience with a high-definition projector,349.99,110
+E027,Phone Mount CarPro,Secure and adjustable phone mount for the car,14.99,220
+E028,Bluetooth Headset VoiceCommand,Hands-free calling with a Bluetooth headset,119.99,BIVOLT
+E029,USB Hub MultiConnect 8,Expand connectivity with a multiport USB hub,39.99,110
+E030,Smart Refrigerator IntelliCool,IoT-enabled smart refrigerator,299.99,220
+E031,Wireless Router TurboNet 3000,High-speed internet with a wireless router,79.99,BIVOLT
+E032,Graphics Card MegaBoost 8GB,Gaming performance with a powerful graphics card,249.99,110
+E033,USB-C Docking Station FlexConnect,Multiport docking station for versatility,29.99,220
+E034,Robot Vacuum CleanBot,Smart cleaning with a robotic vacuum,199.99,110
+E035,Wireless Security Camera SafeGuard 1080p,Surveillance with a high-definition security camera,69.99,220
+E036,Bluetooth Printer MiniPrint,Portable printing with a Bluetooth printer,149.99,BIVOLT
+E037,Smart Doorbell SecureView,HD video and enhanced security with a smart doorbell,199.99,110
+E038,Wireless Charger PadSlim,Compact design wireless charger pad,29.99,220
+E039,Smart LED Bulbs Set of 3,Color-changing smart LED bulbs,54.99,110
+E040,Smart Mirror ReflectPro,Interactive display with a smart mirror,199.99,220
+E041,USB-C to HDMI Adapter ProLink,High-quality video with a USB-C to HDMI adapter,39.99,110
+E042,Portable SSD 500GB,Fast data transfer with a portable SSD,79.99,220
+E043,Gaming Monitor UltraVision 27",144Hz refresh rate gaming monitor,149.99,110
+E044,Wireless Keyboard and Mouse Combo SlimSet,Space-saving wireless keyboard and mouse combo,24.99,220
