@@ -30,9 +30,7 @@ Nesta camada estarão todo os modelos que representam as entidades do sistema
 
 ## Requisitos
 
-Sabendo disso e considerando os diagramas e classes/interfaces fornecidas implementa um sistema que contenha as seguintes operações:
-
-### Operações
+Sabendo disso e considerando os diagramas e classes/interfaces fornecidos, implemente um sistema que contenha as seguintes operações:
 
 1. Listar todos o produtos de determinada categoria
 2. Adicionar produto ao carrinho (informando sku e a quantidade)
@@ -49,4 +47,4 @@ Observe a documentação das interfaces e implemente as classes necessárias par
    1. Verificar disponibilidade no estoque
    2. Remover os produtos do estoque
    3. Zerar o carrinho de compras
-4. Os pagamentos são obviamente simulações. IMplemente simulação de dois tipos de métodos de pagamento: pix e cartão. Você pode adicionar novos campos nessas classes para melhorar a representação.
+4. Os pagamentos são obviamente simulações. Implemente simulação de dois tipos de métodos de pagamento: pix e cartão. Você poderá adicionar novos campos nessas classes para melhorar a representação.
