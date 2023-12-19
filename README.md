@@ -39,7 +39,7 @@ Sabendo disso e considerando os diagramas e classes/interfaces fornecidos, imple
 
 > A lista de produtos (livros e eletrônicos) está fornecida nos arquivos books.csv e eletronics.csv. O seu programa deverá ler esses arquivos ao iniciar para compor o estoque da loja.
 
-Observe a documentação das interfaces e implemente as classes necessárias para o correto funcionamento do programa. O programa deverá ter uma interface simples em modo texto.
+Observe a documentação das interfaces e implementea/altere as classes necessárias para o correto funcionamento do programa. O programa poderá ter uma interface simples em modo texto.
 
 ### Regras de negócio
 
